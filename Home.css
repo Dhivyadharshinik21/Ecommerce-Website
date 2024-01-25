@@ -1,0 +1,56 @@
+
+.carousel{
+    height: 500px;
+    margin-top: 200px;
+}
+.img5{
+    width: 100%;
+    height: 400px;
+}
+.img2{
+    width: 100%;
+
+}
+.img4{
+    width: 100%;
+   
+}
+.mic{
+    width: 80%;
+    height: 400px;
+}
+.products{
+    margin-top: 400px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+.session_storage{
+    padding-top: 100px;
+    text-align: center;
+}
+
+
+@media only screen and (max-width: 767px) {
+    .home_navbar{
+        height: 80px;
+    }
+    .home_navbar2 {
+        height: 80px; 
+       
+    }
+
+    .Brand_name {
+        font-size: 18px; 
+    }
+
+    .carousel {
+        height: 300px; 
+    }
+    .img5,
+    .img2,
+    .img4,
+    .mic {
+        margin-top: 60px;
+    }
+}
